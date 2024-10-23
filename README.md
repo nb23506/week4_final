@@ -78,15 +78,34 @@
       ```
 ----
    9. **ahw4-1.c**
-      - ![ahw4-1.c](https://github.com/user-attachments/assets/16145477-320a-4422-a39f-c490d4e3907f)
-      - ![image](https://github.com/user-attachments/assets/7f5f66c0-a944-4a40-8a9d-58a0bc884778)
-      - ![image](https://github.com/user-attachments/assets/e06bcb37-f2e4-4aec-ae7b-28667a671e82)
 
-   10. **ahw4-2.c**
+      _Input from the keyboard_
+      ```
+      10
+      20
+      40
+      ```
+      _Output from your program_
+      ```
+      Max is 40
+      ```
+
+      _Input from the keyboard_
+      ```
+      -10
+      -40
+      -20
+      ```
+      _Output from your program_
+      ```
+      Max is -10
+      ```
+
+   11. **ahw4-2.c**
       - ![ahw4-2.c](https://github.com/user-attachments/assets/9dbec7c4-9f31-4801-8d5e-7b7df8288622)
       - ![image](https://github.com/user-attachments/assets/bd1261e7-f165-4868-907a-4f1138c37ef5)
 
-   11. **hw4-3.c**
+   12. **hw4-3.c**
       - ![hw4-3.c](https://github.com/user-attachments/assets/f5d023ff-ca9b-45a8-9970-3e2fb9000190)
       - ![image](https://github.com/user-attachments/assets/2dc41eee-5652-47ba-aa20-39402b2f41fc)
       - ![image](https://github.com/user-attachments/assets/6f4b0612-c366-4055-819b-6a0f9320b0f0)
